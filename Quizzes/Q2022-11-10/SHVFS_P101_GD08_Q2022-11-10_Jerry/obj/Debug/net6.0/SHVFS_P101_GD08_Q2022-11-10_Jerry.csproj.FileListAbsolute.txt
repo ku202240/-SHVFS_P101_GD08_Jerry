@@ -1,0 +1,15 @@
+F:\SHVFS_P101_GD08_Jerry_Letizia\SHVFS_P101_GD08_Q2022-11-10_Jerry\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Jerry.exe
+F:\SHVFS_P101_GD08_Jerry_Letizia\SHVFS_P101_GD08_Q2022-11-10_Jerry\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Jerry.deps.json
+F:\SHVFS_P101_GD08_Jerry_Letizia\SHVFS_P101_GD08_Q2022-11-10_Jerry\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Jerry.runtimeconfig.json
+F:\SHVFS_P101_GD08_Jerry_Letizia\SHVFS_P101_GD08_Q2022-11-10_Jerry\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Jerry.dll
+F:\SHVFS_P101_GD08_Jerry_Letizia\SHVFS_P101_GD08_Q2022-11-10_Jerry\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Jerry.pdb
+F:\SHVFS_P101_GD08_Jerry_Letizia\SHVFS_P101_GD08_Q2022-11-10_Jerry\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Jerry.csproj.AssemblyReference.cache
+F:\SHVFS_P101_GD08_Jerry_Letizia\SHVFS_P101_GD08_Q2022-11-10_Jerry\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Jerry.GeneratedMSBuildEditorConfig.editorconfig
+F:\SHVFS_P101_GD08_Jerry_Letizia\SHVFS_P101_GD08_Q2022-11-10_Jerry\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Jerry.AssemblyInfoInputs.cache
+F:\SHVFS_P101_GD08_Jerry_Letizia\SHVFS_P101_GD08_Q2022-11-10_Jerry\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Jerry.AssemblyInfo.cs
+F:\SHVFS_P101_GD08_Jerry_Letizia\SHVFS_P101_GD08_Q2022-11-10_Jerry\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Jerry.csproj.CoreCompileInputs.cache
+F:\SHVFS_P101_GD08_Jerry_Letizia\SHVFS_P101_GD08_Q2022-11-10_Jerry\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Jerry.dll
+F:\SHVFS_P101_GD08_Jerry_Letizia\SHVFS_P101_GD08_Q2022-11-10_Jerry\obj\Debug\net6.0\refint\SHVFS_P101_GD08_Q2022-11-10_Jerry.dll
+F:\SHVFS_P101_GD08_Jerry_Letizia\SHVFS_P101_GD08_Q2022-11-10_Jerry\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Jerry.pdb
+F:\SHVFS_P101_GD08_Jerry_Letizia\SHVFS_P101_GD08_Q2022-11-10_Jerry\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Jerry.genruntimeconfig.cache
+F:\SHVFS_P101_GD08_Jerry_Letizia\SHVFS_P101_GD08_Q2022-11-10_Jerry\obj\Debug\net6.0\ref\SHVFS_P101_GD08_Q2022-11-10_Jerry.dll
