@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\SHVFS_P101_GD08_Jerry_Letizia\\SHVFS_P101_GD08_Q2022-11-10_Jerry\\SHVFS_P101_GD08_Q2022-11-10_Jerry.csproj",
+      "projectUniqueName": "C:\\Users\\GD Student\\Desktop\\GitHub\\-SHVFS_P101_GD08_Jerry\\Quizzes\\Q2022-11-10\\SHVFS_P101_GD08_Q2022-11-10_Jerry\\SHVFS_P101_GD08_Q2022-11-10_Jerry.csproj",
       "projectName": "SHVFS_P101_GD08_Q2022-11-10_Jerry",
-      "projectPath": "F:\\SHVFS_P101_GD08_Jerry_Letizia\\SHVFS_P101_GD08_Q2022-11-10_Jerry\\SHVFS_P101_GD08_Q2022-11-10_Jerry.csproj",
+      "projectPath": "C:\\Users\\GD Student\\Desktop\\GitHub\\-SHVFS_P101_GD08_Jerry\\Quizzes\\Q2022-11-10\\SHVFS_P101_GD08_Q2022-11-10_Jerry\\SHVFS_P101_GD08_Q2022-11-10_Jerry.csproj",
       "packagesPath": "C:\\Users\\GD Student\\.nuget\\packages\\",
-      "outputPath": "F:\\SHVFS_P101_GD08_Jerry_Letizia\\SHVFS_P101_GD08_Q2022-11-10_Jerry\\obj\\",
+      "outputPath": "C:\\Users\\GD Student\\Desktop\\GitHub\\-SHVFS_P101_GD08_Jerry\\Quizzes\\Q2022-11-10\\SHVFS_P101_GD08_Q2022-11-10_Jerry\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GD Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
